@@ -9,7 +9,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 def sumOfMultiples(upperBoundExclusive):
     """
-    Gets sum of multiples of 3 and 5 from 0 to a non-exclusive upperbound
+    Gets sum of multiples of 3 and 5 from 0 to a non-exclusive upperbound (upperBoundExclusive)
     """
 
     # Create empty set to store multiples
