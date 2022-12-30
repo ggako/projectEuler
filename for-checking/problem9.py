@@ -74,8 +74,10 @@ def constraintSatisfied(a, b, c):
     """
     Checks if constraint (a + b + c = 1000) is satisfied
     """
+
     if (a + b + c) == 1000:
         return True
+
     else:
         return False
 
@@ -90,6 +92,5 @@ elapsed_time = et - st
 
 # Prints execution time (.024 seconds)
 print(f"Execution Time: {elapsed_time:.3f} seconds")
-
 
 # Note: For improvement, determine upper bound when looping the values for b (instead of setting as 1000)
