@@ -1,5 +1,5 @@
 """
-Problem 7: 10001st prime
+Problem 8: 10001st prime
 
 The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.
 
